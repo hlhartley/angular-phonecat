@@ -1,8 +1,8 @@
 # AngularJS Phone Catalog Tutorial Application [completed]
 
 ## Screenshots
-![Screenshot 1]()
-![Screenshot 2]()
+![Screenshot 1](home-screenshot.png)
+![Screenshot 2](phone-details-screenshot.png)
 
 
 ## Overview
