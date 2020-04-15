@@ -1,4 +1,8 @@
-# AngularJS Phone Catalog Tutorial Application
+# AngularJS Phone Catalog Tutorial Application [completed]
+
+## Screenshots
+![Screenshot 1]()
+![Screenshot 2]()
 
 
 ## Overview
