@@ -2,7 +2,7 @@
 
 ## Screenshots
 ![Screenshot 1](home-screenshot.png)
-![Screenshot 2](phone-details-screenshot.png)
+![Screenshot 2](phone-detail-screenshot.png)
 
 
 ## Overview
